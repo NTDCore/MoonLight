@@ -1,3 +1,13 @@
+game.StarterGui:SetCore("SendNotification", {
+	Title = "MoonLight";
+	Text = "By 8pmX8"; -- what the text says (ofc)
+	Duration = 60;
+})
+game.StarterGui:SetCore("SendNotification", {
+	Title = "NTD";
+	Text = "am not owner am refuse it"; -- what the text says (ofc)
+	Duration = 60;
+})
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
